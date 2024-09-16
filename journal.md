@@ -9,16 +9,16 @@
 * Manipulative
 * Elusive
 * Enjoy the murder scene as a source of entertainment
-* Provide hints through out the story for investigation, depending on the plot (some of them may be distraction/ raise suspicion towards him)
+* Provide hints throughout the story for investigation, depending on the plot (some of them may be distraction/ raise suspicion towards him)
 * The person who may say something that makes the other looks suspicious (he/she just enjoys the crack between members):
     * For example: A knife is found at the dead scene. This character may say: “I saw [a character’s name] walk towards the kitchen 10 minutes ago.”
 * May have killed someone in the past by accident (?)
-* Have difficulty with articulation, speaks in euphemism and allegory.
+* Has difficulty with articulation, speaks in euphemism and allegory.
 #### Character Description and Illustration:
 **For male design – Family doctor (see illustration below):**
 * Character will have a big nose.
-* Head will use rectangular carton.
-* The facial hair will use scotch sponge.
+* Head will use a rectangular carton.
+* The facial hair will use a scotch sponge.
 * The rest of facial characteristics will be made by cartons including details.
 * The body will be cartons.
 * His blazer will be done using cartons and a layer of fabric.
@@ -33,7 +33,7 @@
 * The body will be cartons.
 * The skirt/maid dress will use fabric.
 * The leg and shoes will be the base of the robot for movements.
-* For arms and legs, using cylindrical block of wood to support the whole body.
+* For arms and legs, using cylindrical blocks of wood to support the whole body.
 
 ![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/char_2.jpg)
 ![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/char_2_build.PNG)
