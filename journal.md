@@ -25,7 +25,7 @@
 * The leg and shoes will be the base of the robot for movements.
 
 ![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/char_1.jpg)
-![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/char_1_build.png)
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/char_1_build.PNG)
 
 
 **For female design – Family maid (see illustration below)**
@@ -36,4 +36,4 @@
 * For arms and legs, using cylindrical block of wood to support the whole body.
 
 ![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/char_2.jpg)
-![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/char_2_build.png)
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/char_2_build.PNG)
