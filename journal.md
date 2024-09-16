@@ -24,9 +24,16 @@
 * His blazer will be done using cartons and a layer of fabric.
 * The leg and shoes will be the base of the robot for movements.
 
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/char_1.jpg)
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/char_1_build.png)
+
+
 **For female design – Family maid (see illustration below)**
 * Oval head shape – use a sack and fill it up to create the shape.
 * The body will be cartons.
 * The skirt/maid dress will use fabric.
 * The leg and shoes will be the base of the robot for movements.
 * For arms and legs, using cylindrical block of wood to support the whole body.
+
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/char_2.jpg)
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/char_2_build.png)
