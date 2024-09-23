@@ -37,3 +37,31 @@
 
 ![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/char_2.jpg)
 ![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/char_2_build.PNG)
+
+### 23 September 2024
+#### Tools used:
+* 2 motors
+* 2 wheels + 2 elastic wrap-arounds
+* 2 brackets
+* M4 nuts and bolts
+* M4x8 bolts
+* M4x10 bolts
+* Shredded wires (2 black and 2 red)
+* Washers x 4 for each wheel attached on each motor; washers x 4 for each motor attached to the wood board
+* 2 turning wheels
+
+#### Steps taken:
+* We started by soldering the shredded wires to the two motors as extensions. Then we cross-entangle the black and red wires to create one wire strand for each motor.
+* Then we applied the brackets onto the motors. After that, we assembled the plastic wheels onto the motors using a screwdriver for the nuts, bolts, and washers, and got finished with them for the time being.
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/23_1.jpeg)
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/23_2.jpeg)
+* Then on a piece of cut wood board, we used pencils to mark the positions where we will attach the bracketed and wheeled motors and the two small turning wheels.
+* For drilling the middle hole, we used drill 9mm.
+* For drilling the 4 holes to attach each bracket/motor to the wood board, we used drill 4.5mm.
+* After we were done drilling holes, we attached the motors onto the board using M4 nuts and bolts with length 30mm, using the screwdriver and the socket wrench.
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/23_3.jpeg)
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/23_4.jpeg)
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/23_5.jpeg)
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/23_6.jpeg)
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/23_7.jpeg)
+
