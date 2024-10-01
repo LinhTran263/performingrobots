@@ -77,8 +77,18 @@
 
 #### Steps taken:
 * We started with sawing the block of wood into two. We made sure that the height of the smaller wooden blocks + caster wheels is slightly less than the big turning wheels for it to wobble and move through the unsmooth surface.
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/1_10_1.jpeg)
 * We drilled the wooden blocks into the base. Then we drill the caster wheels into the wooden blocks using 2 screws diagonally.
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/1_10_2.jpeg)
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/1_10_3.jpeg)
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/1_10_4.jpeg)
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/1_10_5.jpeg)
 * Then we installed the arduino into the arduino shield and motor into the motor shield using the plastic nuts and bolts provided.
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/1_10_6.jpeg)
 * Then we estimated the positions where we wanted to place the battery, the arduino, and the motor.
 * We attached the battery onto the base with a few zip ties, tightly fixing them. We attached the motor and the arduino onto the base as well, but we drilled two holes diagonally under the arduino and motor shield to install the nuts and bolts.
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/1_10_7.jpeg)
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/1_10_8.jpeg)
 
+#### Presentation Question (I presented today):
+(toomie) - Given the advancement of technology, do you think the ultimate goal for creating humanoids is to achieve an existence identical to humans' existence? In other words, is it a good idea to consider robots the same as humans?
