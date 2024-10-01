@@ -65,3 +65,20 @@
 ![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/23_6.jpeg)
 ![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/23_7.jpeg)
 
+### 1 October 2024
+#### Tool used:
+* Arduino shield
+* Motor shield
+* Arduino board
+* Motor
+* Zip-ties
+* Battery
+* Nuts, bolts, and washers
+
+#### Steps taken:
+* We started with sawing the block of wood into two. We made sure that the height of the smaller wooden blocks + caster wheels is slightly less than the big turning wheels for it to wobble and move through the unsmooth surface.
+* We drilled the wooden blocks into the base. Then we drill the caster wheels into the wooden blocks using 2 screws diagonally.
+* Then we installed the arduino into the arduino shield and motor into the motor shield using the plastic nuts and bolts provided.
+* Then we estimated the positions where we wanted to place the battery, the arduino, and the motor.
+* We attached the battery onto the base with a few zip ties, tightly fixing them. We attached the motor and the arduino onto the base as well, but we drilled two holes diagonally under the arduino and motor shield to install the nuts and bolts.
+
