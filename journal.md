@@ -112,3 +112,13 @@ The Arduino has already been mounted to the metal bracket on the wooden base fro
 Using the pins, we connected the L298 Breakout Board to the L298 H-Bridge and connected the Motor Controller Shield to the music maker that was placed onto the Arduino board. In doing so, we connected the L298 H-Bridge to the Arduino.
 
 We finished up by using the screwdrivers to open up the wiring slots of the L298 H-Bridge and connected the motors to the L298 H-Bridge. 
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/2210_1.jpeg)
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/2210_2.jpeg)
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/2210_3.jpeg)
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/2210_4.jpeg)
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/2210_5.jpeg)
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/2210_6.jpeg)
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/2210_7.jpeg)
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/2210_8.jpeg)
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/2210_9.jpeg)
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/2210_10.jpeg)
