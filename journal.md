@@ -92,3 +92,23 @@
 
 #### Presentation Question (I presented today):
 (toomie) - Given the advancement of technology, do you think the ultimate goal for creating humanoids is to achieve an existence identical to humans' existence? In other words, is it a good idea to consider robots the same as humans?
+
+### 22 October 2024
+* Arduino board
+* Arduino board’s metal bracket
+* L298 H-Bridge
+* L298 H-Bridge’s plastic bracket
+* Music Maker
+* Shredded wires (1 yellow, 2 blue, 2 green, 1 white, 1 black)
+* Pins for Motor Controller Arduino Shield
+* Pins for L298 Breakout Board
+* L298 Breakout Board
+* Motor Controller Arduino Shield
+
+We started by assembling and soldering all the pins to the Motor Controller Arduino Shield. Next, we cut out smaller 6 pins from a longer pin bracket and soldered it into the L298 Breakout Board. After that, we followed the connection table and soldered the corresponding colored shredded wires to the L298 Breakout Board. Then following the corresponding colored shredded wires, we connected the L298 Breakout Board with the Motor Controller Arduino Shield.
+
+The Arduino has already been mounted to the metal bracket on the wooden base from last session. Likewise, the L298 H-Bridge has already been mounted to the metal bracket on the wooden base from last session.
+
+Using the pins, we connected the L298 Breakout Board to the L298 H-Bridge and connected the Motor Controller Shield to the music maker that was placed onto the Arduino board. In doing so, we connected the L298 H-Bridge to the Arduino.
+
+We finished up by using the screwdrivers to open up the wiring slots of the L298 H-Bridge and connected the motors to the L298 H-Bridge. 
