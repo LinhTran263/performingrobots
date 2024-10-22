@@ -124,4 +124,4 @@ We finished up by using the screwdrivers to open up the wiring slots of the L298
 ![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/2210_10.jpeg)
 
 ### 24 October 2024
-![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/2410.jpeg)
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/2410.jpg)
