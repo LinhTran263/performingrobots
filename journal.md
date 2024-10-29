@@ -125,3 +125,42 @@ We finished up by using the screwdrivers to open up the wiring slots of the L298
 
 ### 24 October 2024
 ![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/2410.jpg)
+
+### 29 October 2024
+First we typed the code and uploaded them onto the Arduino board with the power on for the wheels to run
+
+We made sure to place something underneath the wooden base so that when the wheels turn, the base will not run away.
+
+```
+void setup() {
+  // Pins 2 and 3 are connected to In1 and In2 respectively
+  // of the L298 motor driver
+  pinMode(9, OUTPUT); //en1
+  pinMode(8, OUTPUT); //in1
+  pinMode(7, OUTPUT); //in2
+
+  pinMode(11, OUTPUT); //en2
+  pinMode(10, OUTPUT); //in3
+  pinMode(12, OUTPUT); //in4
+}
+
+void loop() {
+  // make the motor turn in one direction
+  digitalWrite(8, LOW);
+  digitalWrite(7, HIGH);
+  analogWrite(9, 254);
+   // let it turn for 5 seconds
+  digitalWrite(12, LOW);
+  digitalWrite(10, HIGH);
+  analogWrite(11, 200);}
+```
+
+We eyeballed the size of the head of our character (roughly the size of our group’s storage box). We used tape to attach 2 servo motors, Deluxe Hi-tec HS 422, to our prototype box. We used the sweep example from the application and made a few modifications to add another servo and made changes to the degree to test.
+
+After that, we marked the 0 degree position as bookmarks on the motor of the servo motor.
+
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/2910_1.jpeg)
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/2910_2.jpeg)
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/2910_3.jpeg)
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/2910_4.jpeg)
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/2910_5.jpeg)
