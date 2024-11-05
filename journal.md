@@ -168,10 +168,15 @@ After that, we marked the 0 degree position as bookmarks on the motor of the ser
 ### 05 November 2024
 
 We built the skeleton for the robot’s body using the wood blocks provided and careful measurements.
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/1105_1.jpg)
 
 Then we mounted the Arduino Mega onto the mounting box using the plastic standoffs and assembled them onto the robot body’s skeletons with drills.
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/1105_4.jpg)
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/1105_5.jpg)
 
 We built the nRF Servo Mega Shield, carefully soldering the pins onto the board and assembling the necessary parts.
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/1105_11.jpg)
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/1105_12.jpg)
 
 Then we added the headers sockets for the RadioLink receiver on the nRF Servo Mega Shield. We installed the RadioLink receiver onto the nRF Servo Mega Shield.
 
@@ -179,16 +184,11 @@ We connected the two servo motors attached to the robot’s head to the Arduino 
 
 We used zinc to shape the hair of our robot and added wool to shape the texture.
 
-![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/1105_1.jpg)
 ![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/1105_2.jpg)
 ![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/1105_3.jpg)
-![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/1105_4.jpg)
-![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/1105_5.jpg)
 ![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/1105_6.jpg)
 ![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/1105_7.jpg)
 ![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/1105_8.jpg)
 ![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/1105_9.jpg)
 ![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/1105_10.jpg)
-![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/1105_11.jpg)
-![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/1105_12.jpg)
 
