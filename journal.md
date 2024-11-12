@@ -192,3 +192,17 @@ We used zinc to shape the hair of our robot and added wool to shape the texture.
 ![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/1105_9.jpg)
 ![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/1105_10.jpg)
 
+### 12 November 2024
+We cut the wood to build the left arm of the robot. It has the L shape.
+
+Then we began building the cloche tray to place on top of the created L shape left arm. We built the skeleton for the cloche tray using cardboard and paper. We cut a cut-out circle into half, then built up the central skeleton. Then we started shaping the cloche tray using long pieces of cardboard arched around the central skeleton.
+
+We cut out a cardboard circle to use as the base for the cloche tray.
+
+We used a piece of fabric to cover the built skeleton of the cloche.
+
+Then we cut out a long piece of wood to use as the stick that lifts up the cloche tray, and attached the stick to the cloche tray. Then we attached the servo motor onto the cut-out cardboard cloche tray base, and put everything together.
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/1112_1.jpg)
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/1112_2.jpg)
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/1112_3.jpg)
+
