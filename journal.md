@@ -206,3 +206,22 @@ Then we cut out a long piece of wood to use as the stick that lifts up the cloch
 ![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/1112_2.jpg)
 ![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/1112_3.jpg)
 
+### 19 November 2024
+On the music maker shield, we closed the three solder jumpers next to the ISP header.
+
+We soldered the potentiometer to the Arduino_Shield_RC_Controller_v2 and plugged in the nRF24L01 radio module so that it extends away from the LCD.
+
+To run the code, we changed the CUSTOM_ADDRESS_BYTE and CUSTOM_CHANNEL_NUMBER as our team’s assigned number.
+
+On the Mega Arduino board, we plugged in the nRF24L01 radio module so that it extends over the edge of the board.
+
+We drilled through the skeleton to install the two rods and the flanges onto the robot’s head, then attached the big servo to the skeleton, and then to the head to finish up making it moveable.
+
+We attached the tray with the cloche made previously to the hand rising up, and connected it to the Mega Arduino board
+
+We’ve managed to connect 4 servo motors or NeoPixel to the nRF Servo Mega Shield.
+
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/1911_1.jpg)
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/1911_2.jpg)
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/1911_3.jpg)
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/1911_4.jpg)
