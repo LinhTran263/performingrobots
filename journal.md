@@ -225,3 +225,10 @@ We’ve managed to connect 4 servo motors or NeoPixel to the nRF Servo Mega Shie
 ![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/1911_2.jpg)
 ![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/1911_3.jpg)
 ![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/1911_4.jpg)
+
+### 26 November 2024
+We cut out a piece of cardboard that is as big as the face of the robot to cover the face. Then we eyeballed and cut out 2 holes for the robots’ eyes.
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/2611_3.jpg)
+We wrote the code for the music maker to play a test sound when we pressed the corresponding button on the controller.
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/2611_1.jpg)
+![alt text](https://github.com/LinhTran263/performingrobots/blob/main/robot_illustration/2611_2.jpg)
